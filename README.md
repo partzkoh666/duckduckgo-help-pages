@@ -30,3 +30,7 @@ $ bundle exec jekyll serve --baseurl ""
 ### Search
 
 * Add `excluded_in_search: true` to any documentation page's front matter to exclude that page in the search results.
+
+## Edited some lines dated DECEMBER, 26, 2024 @ 🇸🇦
+made possible through 💪♥️
+by P_A_R_T_Z_K_O_H UR PARADISE 🌀🌀👥👥
