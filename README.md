@@ -1,5 +1,10 @@
-# DuckDuckGo Help Pages
-View these live at: https://duckduckgo.com/duckduckgo-help-pages/
+                                       
+
+  🌲🌺 [ P_A_R_T_Z_K_O_H ] 🌴🌾
+ 
+
+
+ https://duckduckgo.com/duckduckgo-help-pages/
 
 ## Credit
 This site was built using the excellent, open-source, [Edition template](https://github.com/CloudCannon/edition-jekyll-template) from CloudCannon.
